@@ -1,15 +1,15 @@
 // The only file to edit when switching to a different Google Sheet.
 // Sheet: File > Share > Publish to web > Entire document > CSV.
 // The long id below is the one in the published link (.../d/e/<id>/pub).
-export const SHEET_ID = 'REPLACE_WITH_PUBLISHED_SHEET_ID';
+export const SHEET_ID = '2PACX-1vSpmXnFQuGo7J9-e4UGG7c4Y4Y5MvElKjsnENnJV7KdEmfIsLOEEgqE3ClySJtCa6HcJWHzUnvYkQuz';
 
 // Tab name -> gid (the number after #gid= in the Sheet's address bar for that tab).
 export const TABS = {
-  menu: 'REPLACE',
-  categories: 'REPLACE',
-  en: 'REPLACE',
-  tr: 'REPLACE',
-  pt: 'REPLACE',
+  menu: '0',
+  categories: '1836440014',
+  en: '665784582',
+  tr: '1778754526',
+  pt: '1111658424',
 };
 
 export const LANGUAGES = ['en', 'tr', 'pt'];
