@@ -41,8 +41,8 @@
     margin-top: -2px;
     margin-bottom: 6px;
   }
-  .header-side { width: 76px; display: flex; align-items: center; }
-  .header-side-end { justify-content: flex-end; }
+  .brand-block { flex: 1; }
+  .header-controls { display: flex; align-items: center; gap: 6px; }
   .currency-toggle {
     display: inline-flex;
     border: 1px solid #e6dfd5;
